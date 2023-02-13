@@ -1,5 +1,4 @@
 require 'roda'
-require 'pry'
 
 class App < Roda
   plugin :render
