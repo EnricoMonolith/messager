@@ -7,6 +7,7 @@ GEM
       webrick (~> 1.8)
     roda (3.64.0)
       rack
+    tilt (2.0.11)
     webrick (1.8.1)
 
 PLATFORMS
@@ -16,6 +17,7 @@ DEPENDENCIES
   rack
   rackup
   roda
+  tilt
   webrick
 
 BUNDLED WITH
